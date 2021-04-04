@@ -6,7 +6,7 @@ Inspired by ["Web Developer Roadmap"](https://github.com/kamranahmedse/developer
 
 ## Roadmap
 
-![Roadmap](./angular-developer-roadmap.png)
+![Roadmap](./images/angular-developer-roadmap.png)
 
 ## Download
 
