@@ -25,7 +25,7 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
         -   ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS)
         -   [NodeSchool.io](https://nodeschool.io/)
         -   [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
-1.  General Development Skills
+2.  General Development Skills
     -   GIT
         -   ["Learn Git Branching"](https://learngitbranching.js.org/)
     -   HTTP/HTTPS
@@ -33,7 +33,7 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
     -   Terminal usage
     -   Data Structures and Algorithms
     -   Design Patterns
-1.  Build tools
+3.  Build tools
 
     -   Package Managers
 
@@ -54,7 +54,7 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
         -   [npm scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
         -   [gulp](https://gulpjs.com/)
 
-1.  Styling
+4.  Styling
     -   CSS Preprocessors
         -   [Sass/SCSS](https://sass-lang.com/guide)
         -   [PostCSS](https://postcss.org/)
@@ -70,15 +70,15 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
         -   [Angular Material](https://material.angular.io/)
         -   [Clarity Design System](https://vmware.github.io/clarity/)
         -   [Ant Design](https://ng.ant.design/docs/introduce/en)
-1.  Architecture
+5.  Architecture
     -   [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
     -   [Building Libraries](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
     -   [@angular/elements](https://angular.io/guide/elements)
-1.  Coding style
+6.  Coding style
     -   [Angular Styleguide](https://angular.io/guide/styleguide)
     -   [TSLint](https://palantir.github.io/tslint/)
     -   [Prettier](https://prettier.io/)
-1.  Fundamental 3rd parties
+7.  Fundamental 3rd parties
     -   TypeScript
         -   ["TypeScript Deep Dive"](https://github.com/basarat/typescript-book)
         -   [Typescript Docs](https://www.typescriptlang.org/docs/)
@@ -86,19 +86,16 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
         -   [The introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
         -   [RxJS manual](http://reactivex.io/rxjs/manual/overview.html#introduction)
         -   [RxJS In-Depth (video)](https://www.youtube.com/watch?v=KOOT7BArVHQ)
-1.  State Management
-    -   [@ngrx](https://github.com/ngrx/platform/blob/master/docs/store/README.md)
-        -   [/effects](https://github.com/ngrx/platform/blob/master/docs/effects/README.md)
-        -   [/entity](https://github.com/ngrx/platform/tree/master/docs/entity/README.md)
-        -   [ngrx-data](https://github.com/johnpapa/angular-ngrx-data)
+8.  State Management
+    -   [ngrx](https://ngrx.io/)
     -   [NGXS](https://ngxs.gitbook.io/ngxs/)
-1.  Progressive Web Apps
+9.  Progressive Web Apps
     -   [@angular/pwa](https://angular.io/guide/service-worker-getting-started)
     -   [Workbox](https://developers.google.com/web/tools/workbox/)
-1.  Utility Libraries
+10. Utility Libraries
     -   [Lodash](https://lodash.com/)
     -   [Moment.js](https://momentjs.com/)
-1.  Testing
+11. Testing
     -   Unit Testing
         -   [Jasmine](https://jasmine.github.io/)
         -   [Karma](http://karma-runner.github.io/2.0/index.html)
@@ -106,7 +103,7 @@ Get a [PDF version](./images/angular-developer-roadmap.pdf).
     -   E2E Testing
         -   [Protractor](https://www.protractortest.org/#/)
         -   [cypress.io](https://www.cypress.io/)
-1.  Non-browser Environments
+12. Non-browser Environments
     -   Mobile
         -   @angular/pwa (`ng add @angular/pwa`)
         -   [NativeScript](https://www.nativescript.org/)
