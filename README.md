@@ -69,18 +69,20 @@ If you like or are using this project to learn or start your solution, please gi
 
 5. Angular
 
-    - [official website](https://reactjs.org/tutorial/tutorial.html)
-    - [React cheatsheet](https://devhints.io/react)
-    - [React Patterns](https://reactpatterns.com)
-    - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+    - [official website](https://angular.io/)
 
-6. Build Tools
+6. Routing
+
+    - [Angular-router](https://angular.io/guide/router)
+
+7. Build Tools
 
     - Package Managers
         - [npm](https://www.npmjs.com/)
         - [yarn](https://yarnpkg.com/lang/en/)
         - [pnpm](https://pnpm.js.org/)
     - Module Bundlers
+        - [angular-cli](https://angular.io/cli)
         - [Webpack](https://webpack.js.org/)
         - [Bazel](https://bazel.build/)
         - [Rollup](https://rollupjs.org/guide/en)
@@ -91,7 +93,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [gulp](https://gulpjs.com/)
         - [grunt](https://gruntjs.com/)
 
-7. UI Design
+8. UI Design
 
     - CSS Preprocessor
         - [Sass/CSS](https://sass-lang.com/)
@@ -101,7 +103,6 @@ If you like or are using this project to learn or start your solution, please gi
     - CSS Frameworks
         - [Bootstrap](https://getbootstrap.com/)
         - [Materialize](https://materializecss.com/)
-        - [Material Design Lite](https://getmdl.io/)
         - [Bulma](https://bulma.io/)
         - [Semantic UI](https://semantic-ui.com/)
     - CSS in JS
@@ -111,18 +112,28 @@ If you like or are using this project to learn or start your solution, please gi
         - [JSS](http://cssinjs.org/)
         - [Aphrodite](https://github.com/Khan/aphrodite)
     - UI Frameworks
-        - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
-       
+        - [Angular Material](https://material.angular.io/) - Material Design components for Angular
+        - [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) Bootstrap widgets in Angular
+        - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) Angular powered Bootstrap
+        - [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) Angular powered Bootstrap
+        - [ng-zorro-antd](https://ng.ant.design/docs/introduce/en) Angular UI component library based on Ant Design
+        - [nebular](https://github.com/akveo/nebular) angular UI Library based on Eva Design System
+        - [primeng](https://github.com/primefaces/primeng) Angular UI Component Library
+        - [clarity](https://github.com/vmware/clarity) Angular components working together to craft exceptional experiences
 
-8. Architecture
-    - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
-    - [Building Libraries](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
-    - [@angular/elements](https://angular.io/guide/elements)
-9. Coding style
-    - [Angular Styleguide](https://angular.io/guide/styleguide)
-    - [TSLint](https://palantir.github.io/tslint/)
-    - [Prettier](https://prettier.io/)
+9. API Clients
+
+    - REST
+        - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+        - [SuperAgent](https://visionmedia.github.io/superagent/)
+        - [axios](https://github.com/axios/axios)
+    - GraphQL
+        - [Apollo](https://apollo-angular.com/docs/)
+        - [Relay](https://facebook.github.io/relay/)
+        - [urql](https://github.com/FormidableLabs/urql)
+
 10. Fundamental 3rd parties
+
     - TypeScript
         - ["TypeScript Deep Dive"](https://github.com/basarat/typescript-book)
         - [Typescript Docs](https://www.typescriptlang.org/docs/)
@@ -130,16 +141,34 @@ If you like or are using this project to learn or start your solution, please gi
         - [The introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
         - [RxJS manual](http://reactivex.io/rxjs/manual/overview.html#introduction)
         - [RxJS In-Depth (video)](https://www.youtube.com/watch?v=KOOT7BArVHQ)
+
 11. State Management
+
     - [ngrx](https://ngrx.io/)
     - [NGXS](https://ngxs.gitbook.io/ngxs/)
-12. Progressive Web Apps
-    - [@angular/pwa](https://angular.io/guide/service-worker-getting-started)
-    - [Workbox](https://developers.google.com/web/tools/workbox/)
-13. Utility Libraries
+
+12. Architecture
+
+    - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
+    - [angular/elements](https://angular.io/guide/elements)
+
+13. Coding style
+
+    - [Angular Styleguide](https://angular.io/guide/styleguide)
+    - [TSLint](https://palantir.github.io/tslint/)
+    - [Prettier](https://prettier.io/)
+
+14. Utility Libraries
+
     - [Lodash](https://lodash.com/)
-    - [Moment.js](https://momentjs.com/)
-14. Testing
+    - [Moment](https://momentjs.com/)
+    - [classnames](https://github.com/JedWatson/classnames)
+    - [Numeral](http://numeraljs.com/)
+    - [ImmutableJS](https://facebook.github.io/immutable-js/)
+    - [Ramda](https://ramdajs.com/)
+
+15. Testing
+
     - Unit Testing
         - [Jasmine](https://jasmine.github.io/)
         - [Karma](http://karma-runner.github.io/2.0/index.html)
@@ -147,21 +176,34 @@ If you like or are using this project to learn or start your solution, please gi
     - E2E Testing
         - [Protractor](https://www.protractortest.org/#/)
         - [cypress.io](https://www.cypress.io/)
-15. Non-browser Environments
-    - Mobile
-        - @angular/pwa (`ng add @angular/pwa`)
-        - [NativeScript](https://www.nativescript.org/)
-        - [Ionic](https://ionicframework.com/)
+    - Integration Testing
+        - [Karma](https://karma-runner.github.io/)
+
+16. Internationalization
+
+    - [angular/localize](https://angular.io/guide/i18n)
+
+17. Progressive Web Apps
+
+    - [angular/pwa](https://angular.io/guide/service-worker-getting-started)
+    - [Workbox](https://developers.google.com/web/tools/workbox/)
+
+18. Mobile Application Development
+
+    - [NativeScript](https://www.nativescript.org/)
+    - [Ionic](https://ionicframework.com/)
+
+19. Desktop Application Development
+
     - [Angular Universal](https://universal.angular.io/)
     - [Electron](https://electronjs.org/)
 
 ## Contribution
 
-If you want to contribute to this project to make it more helpful for other React developers, your help is very welcome!
+If you want to contribute to this project to make it more helpful for other Angular developers, your help is very welcome!
 
 Just file an issue, better yet: submit a PR! 🙂
 
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
