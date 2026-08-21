@@ -1,14 +1,17 @@
-# Angular Developer Roadmap
+## Angular Developer Roadmap
 
 > A practical, developer-focused **roadmap** to becoming an **Angular Developer** in 2026 — covering the essential tools, libraries, and concepts you need along the way.
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an Angular developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an Angular developer?"
 
+## Disclaimer
+
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
 ## Table of Contents
 
 | No. | Topic                                                                  |
 | --- | ---------------------------------------------------------------------- |
-| 1   | [Disclaimer](#1-disclaimer)                                            |
 | 2   | [Roadmap](#2-roadmap)                                                  |
 | 3   | [IDEs](#3-ides)                                                        |
 | 4   | [HTML](#4-html)                                                        |
@@ -30,12 +33,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 | 20  | [Server-Side Rendering](#20-server-side-rendering)                     |
 | 21  | [Mobile Application Development](#21-mobile-application-development)   |
 | 22  | [Desktop Application Development](#22-desktop-application-development) |
-
-## 1. Disclaimer
-
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
-
-**[⬆ Back to Top](#table-of-contents)**
 
 ## 2. Roadmap
 
