@@ -47,7 +47,16 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## 3. IDEs
 
-- [Visual Studio Code](https://code.visualstudio.com/Download)
+| IDE                                                          | Short Description                                   | Pricing      |
+| ------------------------------------------------------------ | --------------------------------------------------- | ------------ |
+| [Visual Studio Code](https://code.visualstudio.com/Download) | Lightweight and highly extensible code editor.      | **Free**     |
+| [WebStorm](https://www.jetbrains.com/webstorm/)              | Powerful IDE for modern JavaScript development.     | **Paid**     |
+| [Bolt](https://bolt.new/)                                    | AI-powered tool for building web applications.      | **Freemium** |
+| [Cursor](https://www.cursor.com/)                            | AI-powered code editor with smart assistance.       | **Freemium** |
+| [Sublime Text](https://www.sublimetext.com/)                 | Fast and customizable lightweight editor.           | **Paid**     |
+| [Atom](https://atom.io/)                                     | Open-source and highly customizable code editor.    | **Free**     |
+| [Brackets](http://brackets.io/)                              | Frontend-focused editor with live preview.          | **Free**     |
+| [Eclipse](https://www.eclipse.org/)                          | Extensible IDE for Java and enterprise development. | **Free**     |
 
 **[⬆ Back to Top](#table-of-contents)**
 
