@@ -88,8 +88,7 @@ _Basic_
 _ES6_
 
 - [exploringjs](https://exploringjs.com/es6/index.html) Exploring ES6
-- [es6-features](http://es6-features.org/#Constants) ECMAScript 6 — New Features: Overview & Comparison
-- [jsfeatures](https://jsfeatures.in) jsfeatures
+- [compat-table](https://compat-table.github.io/compat-table/es6/) ECMAScript 6 compatibility table
 - [babeljs](https://babeljs.io/docs/en/learn) Learn ES2015
 - [github](https://github.com/lukehoban/es6features) ECMAScript 6
 - [github](https://github.com/sudheerj/ECMAScript-features) ECMAScript 6
